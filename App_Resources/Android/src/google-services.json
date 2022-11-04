@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676214939735",
+    "project_id": "test-1-5987d",
+    "storage_bucket": "test-1-5987d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676214939735:android:7de3c0a453d32ade628312",
+        "android_client_info": {
+          "package_name": "org.nativescript.abllapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676214939735-1vbl0gpm26i3va5u3rl8b6j7th5hgg7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdSxCgo4iGLPlqVsyURrmx_GJNs14tEiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676214939735-1vbl0gpm26i3va5u3rl8b6j7th5hgg7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
